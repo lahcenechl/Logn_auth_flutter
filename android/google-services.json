@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839598796128",
+    "project_id": "fir-getx-login",
+    "storage_bucket": "fir-getx-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839598796128:android:c50f57437fbab3242a0205",
+        "android_client_info": {
+          "package_name": "com.yourdomain.firebasechat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839598796128-4p3admferorggkaeebvkv3l5vaokg0nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvqyhBHSL-O3YHy-6GqCexHkagvpWUz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839598796128-4p3admferorggkaeebvkv3l5vaokg0nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
