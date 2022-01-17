@@ -1,7 +1,7 @@
 # firebasechat_app
 
-A new Flutter project.
-
+im New to flutter trying to get the login validation done and conect it with firebase phone and google auth.
+design still need lot of work.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
